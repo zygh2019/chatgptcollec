@@ -1,0 +1,7 @@
+{
+  "name": "vip_list",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

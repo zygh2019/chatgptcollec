@@ -1,0 +1,31 @@
+{
+    "uni_modules": {
+        "encrypt": [
+            "uniCloud-aliyun/cloudfunctions/apikey/index.js",
+            "uniCloud-aliyun/cloudfunctions/openai/index.js",
+            "uniCloud-aliyun/cloudfunctions/redeemMember/index.js",
+            "uniCloud-aliyun/cloudfunctions/vip_list/index.js",
+            "uniCloud-aliyun/cloudfunctions/wx_pay/index.js",
+            "uniCloud-aliyun/cloudfunctions/shareNumber/index.js",
+            "uniCloud-aliyun/cloudfunctions/integral/index.js"
+        ]
+    },
+    "id": "xx-uniCloud-ChatGPT",
+    "name": "ChatGPT   openai 兑换码，分享，广告，会员APP，H5，小程序",
+    "displayName": "ChatGPT   openai 兑换码，分享，广告，会员APP，H5，小程序",
+    "version": "1.1.0.0.9",
+    "description": "广告，会员次数充值，会员兑换码，分享，一键部署，独立后台，卡密兑换，对接支付，生成图片，AI对话",
+    "keywords": [
+        "openai",
+        "chatGPT",
+        "智能机器人",
+        "APP",
+        "微信小程序"
+    ],
+    "dcloudext": {
+        "category": [
+            "uniCloud",
+            "云端一体项目模板"
+        ]
+    }
+}

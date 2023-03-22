@@ -1,0 +1,7 @@
+{
+  "name": "shareNumber",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
